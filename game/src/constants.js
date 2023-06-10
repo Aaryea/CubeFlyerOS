@@ -8,5 +8,8 @@ const greetings = [
     'A Whole New Dimension!',
     '它是一只鸟！',
     '它是一架飞机！',
-    'ये कबूत है '
+    'ये कबूत है ',
+    'Funniest thing I\'ve ever seen',
+    'One of the games of all time!'
+
 ];
