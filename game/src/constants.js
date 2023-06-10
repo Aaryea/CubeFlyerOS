@@ -7,6 +7,6 @@ const greetings = [
     '1000% more Cube!',
     'A Whole New Dimension!',
     '它是一只鸟！',
-    '它是一架飞机！'，
+    '它是一架飞机！',
     'ये कबूत है '
 ];
