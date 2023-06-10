@@ -6,6 +6,10 @@ const greetings = [
     'It\'s a plane!',
     '1000% more Cube!',
     'A Whole New Dimension!',
+    '它是一只鸟！',
+    '它是一架飞机！',
+    'ये कबूत है ',
     'Funniest thing I\'ve ever seen',
     'One of the games of all time!'
+
 ];
