@@ -58,6 +58,7 @@ class Barrier extends GameObject {
                 playerHeight - 5.5 < this.floorBox.position.y) {
                     return true;
             }
+            addScore(1/80)
         }
         return false;
     }

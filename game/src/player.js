@@ -34,7 +34,7 @@ class Player extends GameObject {
         this.playerMesh.position.y += this.velocity.y * deltaTime;
         if (this.testGameOver()) {
             this.endGame()
-        }
+        }    
 
         // To simplify game code the Player handles spawning obstacles (this makes it easier to track for collisions without writing a full handler)
         // A side effect of this is that creating or destroying the Player can pause or start the game.
