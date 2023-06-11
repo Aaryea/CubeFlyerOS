@@ -20,7 +20,7 @@ var createHud = function() {
 }
 
 var updateScoreText = function() {
-    scoreText.text = "Score: " + score;
+    scoreText.text = "Score: " + Math.round(score);
 }
 
 var resetScore = function() {
